@@ -13,7 +13,7 @@ const student ={
         console.log(this.name, 'Taking exam');
     },
     treatDay: function (expense, boksish){
-       this.money =this.money - expense;
+       this.money =this.money - expense -boksish;
        return this.money;
     }
 }
