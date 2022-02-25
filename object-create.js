@@ -5,11 +5,11 @@ const student ={name:'Sakib-al-Hasan', job:'crckter'}
 const person =new Object();
 
 //3
-// const human = object.create(student);
-// console.log(human.job);
+const human = object.create(student);
+console.log(human.job);
 
 //4. null object
-// const huma =object.create(null);
+const huma =object.create(null);
 
 //5. creating object from class
 class People {
