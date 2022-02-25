@@ -1,0 +1,1 @@
+const student ={name:'Sakib-al-Hasan', job:'crckter'}
